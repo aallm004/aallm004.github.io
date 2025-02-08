@@ -2,7 +2,4 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-*.vsidx
-/.vs/aallm004.github.io/v17/.wsuo
-/.vs/slnx.sqlite
-*.sqlite-journal
+/.vs/***
