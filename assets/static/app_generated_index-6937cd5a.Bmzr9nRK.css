@@ -160,5 +160,5 @@
     .backgroundcolorBlack  { background-color: black; }
     .margintop40           { margin-top: 40px; }
     .centerIMG300          { display: block; margin-left: auto; margin-right: auto; width: 300px; }
-    .topmenu               { position: sticky; top: 0; background-color: white; z-index: 10; }
+    .topmenu               { position: sticky; top: 0; background-color: white; z-index: 10; margin-top: 0; }
 }
