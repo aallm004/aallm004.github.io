@@ -137,7 +137,7 @@
     }
 }
 @media all{
-    .backgroundcolorPurple { background-color: lightblue; }
+    .backgroundcolorPurple { background-color: rgb(50, 98, 168); }
     .fontfamilyNimbus      { font-family: Nimbus Mono PS,Courier New,monospace; }
     .fontsize55            { font-size: 55px; }
     .lineheight1point2     { line-height: 1.2; }
@@ -160,5 +160,5 @@
     .backgroundcolorBlack  { background-color: black; }
     .margintop40           { margin-top: 40px; }
     .centerIMG300          { display: block; margin-left: auto; margin-right: auto; width: 300px; }
-    .topmenu               { position: sticky; top: 0; z-index: 10; margin-top: 0; background-color: lightblue; }
+    .topmenu               { position: sticky; top: 0; z-index: 10; margin-top: 0; background-color: rgb(50, 98, 168); }
 }
